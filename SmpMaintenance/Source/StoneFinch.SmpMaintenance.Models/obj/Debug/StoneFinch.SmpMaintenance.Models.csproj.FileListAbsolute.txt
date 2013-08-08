@@ -1,0 +1,5 @@
+C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\bin\Debug\StoneFinch.SmpMaintenance.Models.dll
+C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\bin\Debug\StoneFinch.SmpMaintenance.Models.pdb
+C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\StoneFinch.SmpMaintenance.Models\obj\Debug\StoneFinch.SmpMaintenance.Models.dll
+C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\StoneFinch.SmpMaintenance.Models\obj\Debug\StoneFinch.SmpMaintenance.Models.pdb
+C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\StoneFinch.SmpMaintenance.Models\obj\Debug\StoneFinch.SmpMaintenance.Models.csprojResolveAssemblyReference.cache
