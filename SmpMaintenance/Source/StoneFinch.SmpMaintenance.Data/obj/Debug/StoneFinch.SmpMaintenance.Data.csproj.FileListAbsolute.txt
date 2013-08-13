@@ -1,5 +1,0 @@
-C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\bin\Debug\StoneFinch.SmpMaintenance.Data.dll
-C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\bin\Debug\StoneFinch.SmpMaintenance.Data.pdb
-C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\StoneFinch.SmpMaintenance.Data\obj\Debug\StoneFinch.SmpMaintenance.Data.dll
-C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\StoneFinch.SmpMaintenance.Data\obj\Debug\StoneFinch.SmpMaintenance.Data.pdb
-C:\Dev\aspnetmvc4membership\SmpMaintenance\Source\StoneFinch.SmpMaintenance.Data\obj\Debug\StoneFinch.SmpMaintenance.Data.csprojResolveAssemblyReference.cache
